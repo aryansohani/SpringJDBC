@@ -25,8 +25,6 @@ public class SpringJdbCprojectApplication {
         List<Student> Studentlist = service.getall();
         System.out.println(Studentlist);
 
-
-
     }
 
 }
