@@ -19,7 +19,7 @@ public class StudentService {
     }
 
     @Autowired
-    public void setRepo(Studentrepo repo) {
+    public void setRepo(Studentrepo repo)         {
         this.repo = repo;
     }
 

@@ -17,7 +17,7 @@ public class Studentrepo {
 
     private JdbcTemplate jdbc;
 
-    public JdbcTemplate getJdbc() {
+    public JdbcTemplate getJdbc(){
         return jdbc;
     }
 
